@@ -1,0 +1,11 @@
+I. Prérequis
+	* PHP Data Object activé avec l'extension MySQL
+
+II. Mise en place de la base de données
+	*Insérer la table sql "g10.sql" dans une base nommé "g10" dans PhpMyAdmin
+
+III. Mise en place du site
+	* Ouvrir le fichier config.php se trouvant dans le dossier src
+	* Modifier les informations entre guillemets selon les indications
+	* Copiez tout le contenu du dossier sur votre serveur
+	* Le site est en place.
