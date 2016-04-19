@@ -1,8 +1,8 @@
-projet/index.php : Page d'acceuil du site
+*projet/index.php : Page d'acceuil du site
 
-projet/brocantes.php : Page contenant toute les brocantes
-projet/detailbroc.php : Page de brocante détaillé
-projet/t_brocantes.php : Page pour la création de brocantes par l'utilisateur
+*projet/brocantes.php : Page contenant toute les brocantes
+*projet/detailbroc.php : Page de brocante détaillé
+*projet/t_brocantes.php : Page pour la création de brocantes par l'utilisateur
 projet/s_brocantes.php : Page pour la suppresion de brocantes par l'utilisateur
 projet/brocantelieu.php : Page des brocantes selon un lieu choisi
 projet/brocantesearch.php : Page des brocantes selon la recherche de l'utilisateur
