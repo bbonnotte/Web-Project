@@ -1,4 +1,4 @@
-*projet/index.php : Page d'acceuil du site
+* projet/index.php : Page d'acceuil du site
 
 *projet/brocantes.php : Page contenant toute les brocantes
 *projet/detailbroc.php : Page de brocante détaillé
